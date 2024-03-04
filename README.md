@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## this is stikkx, linux administrator and full stack developer
+
 <!--
 **stikkx/stikkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
