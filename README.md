@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## this is stikkx on fedora, linux administrator and full stack developer
+## this is stikkx on linux, linux administrator and full stack developer
 
 <!--
 **stikkx/stikkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
